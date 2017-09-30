@@ -26,7 +26,7 @@ Social instability is an existential threat to the long-term economic interests 
 
 ##### 3.2. The system probably shouldn't rely on "security through obscurity"
 
-Well-designed systems don't rely on keeping their operation a secret to be effective.  If they do, then anyone that knows or figures out the secret will have an unearned advantage in the marketplace of ideas, and that is dangerous for our social cohesion, and for the long-term interests of Facebook.
+Well-designed systems don't rely on keeping their operation a secret to be effective.  If they do, then anyone that knows or figures out the secret will have an unearned advantage in the marketplace of ideas, and that is dangerous for our social cohesion, and for the long-term interests of Facebook and Twitter.
 
 Consequently, any solution to this should be published in the scientific literature, particularly if it is actually deployed, but preferably before it is deployed.  It is in both the public and the social network's private interests to do this.  This should be the mindset of the team tasked with solving this problem, they should think of it as pure research, despite its real-world importance (or, perhaps, because of it).
 
