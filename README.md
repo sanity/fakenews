@@ -62,3 +62,7 @@ Ian Clarke is a Computer Scientist and Entrepreneur, with a track record of both
 Ian is best known as the founder and coordinator of the Freenet Project; designed to allow true freedom of communication, Freenet was the first decentralized anonymous peer-to-peer network, and a precursor of the “distributed hashtable” data structure.
 
 [More info on Ian](http://blog.locut.us/about/).
+
+#### 7. License
+
+This document is released under [The GNU General Public License v3](https://www.gnu.org/licenses/gpl.html)
