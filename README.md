@@ -15,7 +15,7 @@ I think I've identified some ways that any solution can be evaluated, some ways 
 
 ##### 3.1. The solution must pass the "Galileo test"
 
-The system cannot simply suppress information that is provocative, because the most important ideas are always provocative the first time people hear them.  A system that suppresses speech just because it is provocative is dangerous for our democracy (and therefore the long-term interests of Facebook/Twitter/etc).
+The system cannot simply suppress information that is provocative, because the most important ideas are always provocative the first time people hear them.  A system that suppresses speech just because it is provocative is dangerous for our democracy (and therefore a danger to the long-term economic interests of Facebook/Twitter/etc too, which is a reason for optimism).
 
 ##### 3.2. The system probably shouldn't rely on "security through obscurity"
 
