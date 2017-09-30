@@ -50,9 +50,17 @@ Promulgation of a bad idea is a harm that can be remedied through individual ske
 
 Therefore, any solution must weigh both interests proportionate to the potential harm of each, recognizing this imbalance.
 
-#### 4. A hypothesis on the cause of this problem
+#### 4. Some thoughts on the actual cause of this problem
 
-I'll finish with my hypothesis for what the underlying problem is, and it is related to my comments above about agreeability and disagreeability being opposing but complementary traits.
+##### 4.1 Agreeableness
+
+Agreeableness is one of the [five major dimensions](https://en.wikipedia.org/wiki/Big_Five_personality_traits) of personality structure.  Agreeable people seek consensus, and dislike conflict.  They tend to be pleasant to be around, but can be vulnerable to credulousness.
+
+Disagreeable people tend to get into debates with others, and they can sometimes be unpleasant to converse with.  However, these people tend to be the type to point out when the emperor isn't wearing any clothes - which is an important role in any society.
+
+The best teams have a balance of these two personality traits, because even though they are opposites, they are *complimentary*.  Too many disagreeable people and your team can spend too much time arguing and be insufficiently collaborative.  However, too many agreeable people and bad ideas might not get shot down as quickly as they deserve to be.  Balance is key.
+
+##### 4.2 Hypothesis
 
 Using Facebook as an example, I posit that their current algorithm creates a bias towards agreeability in what people see in their newsfeeds.  There is the obvious fact that people frequently unfriend people who say stuff they disagree with.  But I suspect Facebook's (largely opaque) newsfeed algorithm magnifies this effect significantly, perhaps because one of its design goals is to reduce the likelihood of people unfriending each-other.
 
