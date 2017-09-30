@@ -43,17 +43,17 @@ I'll finish with my hypothesis for what the underlying problem is, and it is rel
 
 Using Facebook as an example, I posit that their current algorithm creates a bias towards agreeability in what people see in their newsfeeds.  There is the obvious fact that people frequently unfriend people who say stuff they disagree with.  But I suspect Facebook's (largely opaque) newsfeed algorithm magnifies this effect significantly, perhaps because one of its design goals is to reduce the likelihood of people unfriending each-other.
 
-An expected consequence of this would be that people find themselves in ideological echo chambers where they only see opinions they agree with<sup>1</>, and it turns out this is precisely our current situation, which lends a little more weight to my hypothesis :)
+An expected consequence of this would be that people find themselves in ideological echo chambers where they only see opinions they agree with<sup>1</sup>, and it turns out this is precisely our current situation, which lends a little more weight to my hypothesis :)
 
 So whatever solution we come up with would figure out out how to mix in the right amount of disagreeability for a healthy marketplace of ideas.
  
 This is a hard problem but I really believe it is solvable, and the most important part of coming up with a good solution is to frame the problem the right way, which I hope this document helps with.
 
+<sup>1</sup> This echo-chamber may permit caricatures of dissenting opinions - but these don't help, they are also "fake news".
+
 #### 5. Feedback
 
 While I've been thinking about this issue in one form or another since before I had the idea that became [Freenet](https://en.wikipedia.org/wiki/Freenet), the political instability that became evident to me in 2016 (but others far before this) makes this problem urgent.  Remember that this is a "Request for Comment", and I will take comments on this document, I'll also accept any pull request which I think will improve the document.  My preference is that any feedback be public, but it doesn't have to be attributed, and I will endeavor not to attribute anyone without their permission.
-
-<sup>1</sup> This echo-chamber may permit caricatures of dissenting opinions - but these don't help, they are also "fake news".
 
 #### 6. About me
 
