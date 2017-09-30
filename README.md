@@ -10,7 +10,7 @@ The promulgation of misleading information through social media, leading to pola
 
 While I've been thinking about this issue in one form or another since before I had the idea that became [Freenet](https://en.wikipedia.org/wiki/Freenet) almost 20 years ago, the political instability that became evident to me in 2016 (but others far before this) makes this problem urgent.
 
-##### 1.1 What the problem isn't
+##### 1.3 What the problem isn't
 
 I think it's critical not to associate this problem with any specific political or social movement.  Firstly, because this would make broad acceptance impossible (it would correctly be perceived as Orwellian).  Secondly, and even more importantly, I don't think we'll find a good solution if we frame the problem that way.
 
