@@ -54,3 +54,11 @@ This is a hard problem but I really believe it is solvable, and the most importa
 While I've been thinking about this issue in one form or another since before I had the idea that became [Freenet](https://en.wikipedia.org/wiki/Freenet), the political instability that became evident to me in 2016 (but others far before this) makes this problem urgent.  Remember that this is a "Request for Comment", and I will take comments on this document, I'll also accept any pull request which I think will improve the document.  My preference is that any feedback be public, but it doesn't have to be attributed, and I will endeavor not to attribute anyone without their permission.
 
 <sup>1</sup> This echo-chamber may permit caricatures of dissenting opinions - but these don't help, they are also "fake news".
+
+#### 6. About the author
+
+Ian Clarke is a Computer Scientist and Entrepreneur, with a track record of both technical and business innovation, and an outspoken thinker and activist on issues relating to freedom of speech, intellectual property law, and technology.
+
+Ian is best known as the founder and coordinator of the Freenet Project; designed to allow true freedom of communication, Freenet was the first decentralized anonymous peer-to-peer network, and a precursor of the “distributed hashtable” data structure.
+
+[More info on Ian](http://blog.locut.us/about/).
