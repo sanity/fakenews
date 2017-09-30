@@ -55,7 +55,7 @@ While I've been thinking about this issue in one form or another since before I 
 
 <sup>1</sup> This echo-chamber may permit caricatures of dissenting opinions - but these don't help, they are also "fake news".
 
-#### 6. About the author
+#### 6. About me
 
 Ian Clarke is a Computer Scientist and Entrepreneur, with a track record of both technical and business innovation, and an outspoken thinker and activist on issues relating to freedom of speech, intellectual property law, and technology.
 
