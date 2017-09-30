@@ -1,4 +1,5 @@
-### Request for Comments: The problem of promulgation of misleading information through social media (aka "fake news")
+### Request for Comments
+### The problem of promulgation of misleading information through social media (aka "fake news")
 
 #### 1. Problem statement
 
