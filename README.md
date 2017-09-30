@@ -23,7 +23,7 @@ The system cannot simply suppress information that is provocative, because the m
 
 ###### 3.1.1. It is in Facebook and Twitter's economic self-interest to find a good solution to this problem
 
-Social instability is an existential threat to the long-term economic interests of Facebook and Twitter.  I think this alignment between public and private interests may be reason for optimism.
+Social instability is an existential threat to the long-term economic interests of Facebook and Twitter.  I think this alignment between the public interest and the private interests of today's largest social networks may be reason for optimism.
 
 ##### 3.2. The system probably shouldn't rely on "security through obscurity"
 
