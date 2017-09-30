@@ -6,7 +6,7 @@ The promulgation of misleading information through social media.
 
 ##### 1.1 What the problem isn't
 
-I think it's critical not to associate this problem with any specific political or social movement.  Firstly, because this would make broad acceptance impossible (it would correctly be perceived as Orwellian).  Secondly (and even more importantly), I don't think we'll find a good solution if we frame the problem that way.
+I think it's critical not to associate this problem with any specific political or social movement.  Firstly, because this would make broad acceptance impossible (it would correctly be perceived as Orwellian).  Secondly, and even more importantly, I don't think we'll find a good solution if we frame the problem that way.
 
 
 #### 2. Purpose of this document 
