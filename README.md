@@ -11,7 +11,7 @@ I think it's critical not to associate this problem with any specific political 
 
 #### 2. Purpose of this document 
 
-My goal here is to summarize my thinking so-far on this problem, while acknowledging that I haven’t thought of a solution yet.  I also with to discuss some solutions I’ve ruled out and why I’ve ruled them out.  I also hope to persuade readers that a good solution does exist to this problem, but it won’t be easy and probably won’t be obvious, and a bad solution could be far worse than no solution at all.
+My goal here is to summarize my thinking so-far on this problem, while acknowledging that I haven’t thought of a solution yet.  I also wish to discuss some solutions I’ve ruled out and why I’ve ruled them out.  I also hope to persuade readers that a good solution does exist to this problem, but it won’t be easy and probably won’t be obvious, and a bad solution could be far worse than no solution at all.
 
 #### 3. Necessary and desirable properties of a good solution to this problem
 
