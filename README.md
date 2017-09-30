@@ -19,9 +19,11 @@ I think I've identified some ways that any solution can be evaluated, some ways 
 
 ##### 3.1. The solution must pass the "Galileo test"
 
-The system cannot simply suppress information that is provocative, because the most important ideas are always provocative the first time people hear them.  A system that suppresses speech just because it is provocative is dangerous for our democracy (and therefore a danger to the long-term economic interests of Facebook/Twitter/etc too<sup>1</sup>).
+The system cannot simply suppress information that is provocative, because the most important ideas are always provocative the first time people hear them.  A system that suppresses speech just because it is provocative is dangerous for our democracy.  
 
-<sup>1.</sup> I believe this alignment between public and private interests is reason for optimism.
+###### 3.1.1. It is in Facebook and Twitter's economic self-interest to find a good solution to this problem
+
+Social instability is an existential threat to the long-term economic interests of Facebook and Twitter.  I think this alignment between public and private interests may be reason for optimism.
 
 ##### 3.2. The system probably shouldn't rely on "security through obscurity"
 
