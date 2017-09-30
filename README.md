@@ -60,7 +60,9 @@ This is a hard problem but I really believe it is solvable, and the most importa
 
 #### 5. Feedback
 
-While I've been thinking about this issue in one form or another since before I had the idea that became [Freenet](https://en.wikipedia.org/wiki/Freenet), the political instability that became evident to me in 2016 (but others far before this) makes this problem urgent.  Remember that this is a "Request for Comment", and I will take comments on this document, I'll also accept any pull request which I think will improve the document.  My preference is that any feedback be public, but it doesn't have to be attributed, and I will endeavor not to attribute anyone without their permission.
+This is a "Request for Comment", and I will take comments on this document and incorporate feedback.  I'll also accept any pull request which I think will improve the document.  
+
+My preference is that any feedback be delivered in a public forum, but it doesn't have to be attributed, and I will endeavor not to attribute anyone without their permission.
 
 #### 6. About me
 
