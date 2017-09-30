@@ -1,8 +1,14 @@
 ### RFC: Some thoughts on the problem of "fake news"
 
-#### 1. Problem statement
+#### 1. Overview
 
-The promulgation of misleading information through social media.
+##### 1.1 The problem
+
+The promulgation of misleading information through social media, leading to polarization and mutual distrust between increasingly disjoint subsets of the population.
+
+##### 1.2 Motivation
+
+While I've been thinking about this issue in one form or another since before I had the idea that became [Freenet](https://en.wikipedia.org/wiki/Freenet) almost 20 years ago, the political instability that became evident to me in 2016 (but others far before this) makes this problem urgent.
 
 ##### 1.1 What the problem isn't
 
