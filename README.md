@@ -20,25 +20,25 @@ I also hope to persuade readers that a good solution does exist to this problem,
 
 I think it's critical not to associate this problem with any specific political or social movement.  Firstly, because this would make broad acceptance impossible (it would correctly be perceived as Orwellian).  Secondly, and even more importantly, I don't think we'll find a good solution if we frame the problem that way.
 
-#### 3. Necessary and desirable properties of a good solution to this problem
+#### 2. Necessary and desirable properties of a good solution to this problem
 
 I think I've identified some ways that any solution can be evaluated, some ways that something could appear to be the solution but actually make things much worse, and perhaps some directional hints about where the solution might exist.
 
-##### 3.1. The solution must pass the "Galileo test"
+##### 2.1. The solution must pass the "Galileo test"
 
 The system cannot simply suppress information that is provocative, because the most important ideas are always provocative the first time people hear them.  A system that suppresses speech just because it is provocative is dangerous for our democracy.  
 
-###### 3.1.1. It is in Facebook and Twitter's economic self-interest to find a good solution to this problem
+###### 2.1.1. It is in Facebook and Twitter's economic self-interest to find a good solution to this problem
 
 Social instability is an existential threat to the long-term economic interests of Facebook and Twitter.  I think this alignment between the public interest and the private interests of today's largest social networks may be reason for optimism.
 
-##### 3.2. The system probably shouldn't rely on "security through obscurity"
+##### 2.2. The system probably shouldn't rely on "security through obscurity"
 
 Well-designed systems don't rely on keeping their operation a secret to be effective.  If they do, then anyone that knows or figures out the secret will have an unearned advantage in the marketplace of ideas, and that is dangerous for our social cohesion, and for the long-term interests of Facebook and Twitter.
 
 Consequently, any solution to this should be published in the scientific literature, particularly if it is actually deployed, but preferably before it is deployed.  It is in both the public and the social network's private interests to do this.  This should be the mindset of the team tasked with solving this problem, they should think of it as pure research, despite its real-world importance (or, perhaps, because of it).
 
-##### 3.3. The system should not treat truthfulness as an attribute of people or organizations, because nobody is objective on every topic at all times
+##### 2.3. The system should not treat truthfulness as an attribute of people or organizations, because nobody is objective on every topic at all times
 
 For example, imagine we designated certain organizations as "ground truth", and then tried to identify and suppress contradictory information.  This would be dangerous because it's impossible to make any such designation without imposing our own biases, and everyone has biases even if we think we don't (actually, especially when we think we don’t ;)
 
@@ -52,9 +52,9 @@ Promulgation of a bad idea is a harm that can be remedied through individual ske
 
 Therefore, any solution must weigh both interests proportionate to the potential harm of each, recognizing this imbalance.
 
-#### 4. Some thoughts on the actual cause of this problem
+#### 3. Some thoughts on the actual cause of this problem
 
-##### 4.1 Agreeableness
+### 3.1 Agreeableness
 
 Agreeableness is one of the [five major dimensions](https://en.wikipedia.org/wiki/Big_Five_personality_traits) of personality structure.  Agreeable people seek consensus, and dislike conflict.  They tend to be pleasant to be around, and are less likely to be skeptical of what others say.
 
