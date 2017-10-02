@@ -12,7 +12,9 @@ While I've been thinking about this issue in one form or another since before I 
 
 ##### 1.3 Purpose of this document 
 
-My purpose here is to summarize my thinking so-far on this problem, I do not yet have a solution but I hope I am directionally correct and that this will be useful.  As part of this I will discuss some potential solutions I’ve ruled out and why I’ve ruled them out.  I also hope to persuade readers that a good solution does exist to this problem, but it won’t be easy and probably won’t be obvious, and a bad solution could be far worse than no solution at all.
+My purpose here is to summarize my thinking so-far on this problem.  Unfortunately, I do not yet have a solution but I think I am directionally correct.  As part of this I will discuss some potential solutions I’ve ruled out and the reasons I’ve ruled them out.  My hope is that these reasons could form part of a set of design requirements to guide further exploration of the solution space.  
+
+I also hope to persuade readers that a good solution does exist to this problem, but it won’t be easy and probably won’t be obvious.  A bad solution to this problem could be far worse than no solution at all, so a high degree of rigor is warranted.
 
 ##### 1.4 What the problem isn't
 
