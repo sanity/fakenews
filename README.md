@@ -4,7 +4,7 @@
 
 ##### 1.1 The problem
 
-The promulgation of misleading information through social media, leading to polarization and mutual distrust between increasingly disjoint subsets of the population.
+The promulgation of misleading information through social media, leading to polarization, lack of constructive dialog, and mutual distrust between increasingly disjoint subsets of the population.
 
 ##### 1.2 Motivation
 
