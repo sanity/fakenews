@@ -1,4 +1,4 @@
-### RFC: Some thoughts on the problem of "fake news"
+### RFC: An examination of the problem of "fake news", and some necessary properties of any solution
 
 #### 1. Overview
 
