@@ -58,7 +58,7 @@ Therefore, any solution must weigh both interests proportionate to the potential
 
 Agreeableness is one of the [five major dimensions](https://en.wikipedia.org/wiki/Big_Five_personality_traits) of personality structure.  Agreeable people seek consensus, and dislike conflict.  They tend to be pleasant to be around, and are less likely to be skeptical of what others say.
 
-Disagreeable people tend to get into debates with others, and they can sometimes be unpleasant to deal with (my girlfriend can confirm this ;).  However, these people tend to be the type to point out when the emperor isn't wearing any clothes - which is an essential role in any society.
+Disagreeable people tend to get into debates with others, which can sometimes cause frustration.  However, these people also tend to point out when the emperor isn't wearing any clothes - which is an essential role in any team or society.
 
 The best teams have a balance of these two personality traits, because even though they are opposites, they are *complimentary*.  Too many disagreeable people and your team can spend too much time arguing and be insufficiently collaborative.  However, too many agreeable people and bad ideas might not get shot down as quickly as they deserve to be.  Balance is key.
 
