@@ -4,7 +4,7 @@
 
 ##### 1.1 The problem
 
-The excessive promulgation of misleading information through social media, leading to polarization, lack of constructive dialog, and mutual distrust between increasingly disjoint subsets of the population, which could, if unchecked, lead to dangerous social destabalization.
+The excessive promulgation of misleading information through social media, leading to polarization, lack of constructive dialog, and mutual distrust between increasingly disjoint subsets of the population, which could, if unchecked, lead to dangerous social destabilization.
 
 ##### 1.2 Motivation
 
