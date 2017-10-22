@@ -1,6 +1,6 @@
 # Document relocated
 
-To facilitate feedback, this document has been moved to [Google Docs](https://docs.google.com/document/d/1k2FgRzUCKRg7I2uq-_31Qkzxjo4lT0HtuTz76SLBw_I/edit?usp=sharing), please offer any feedback there.
+To facilitate feedback, this document has been [moved](https://docs.google.com/document/d/1k2FgRzUCKRg7I2uq-_31Qkzxjo4lT0HtuTz76SLBw_I/edit?usp=sharing), please offer any feedback there.
 
 ### RFC: An examination of the problem of "fake news", and some necessary properties of any solution
 
