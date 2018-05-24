@@ -1,6 +1,4 @@
-# Document relocated
-
-### RFC: An examination of the problem of "fake news", and some necessary properties of any solution
+# Reducing the influence of false information disseminated through social media
 
 #### 1. Overview
 
